@@ -1,1 +1,1 @@
-# crud-employees-backend
+# crud-employees-backend (MongoDb + Express + Angular)
